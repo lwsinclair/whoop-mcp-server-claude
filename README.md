@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/nissand-whoop-mcp-server-claude-badge.png)](https://mseep.ai/app/nissand-whoop-mcp-server-claude)
+
 # WHOOP MCP Server
 
 A Model Context Protocol (MCP) server that provides access to all WHOOP API endpoints. This server allows you to integrate WHOOP fitness and health data into your applications through the MCP standard.
